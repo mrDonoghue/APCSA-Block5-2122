@@ -1,10 +1,10 @@
 # Links link
 
 ## Warmup
-* [Warmup0](https://apclassroom.collegeboard.org/8/assessments/assignments/41982157)
+* [Warmup1](https://apclassroom.collegeboard.org/8/assessments/assignments/42062398/)
 
 ## Class
-* [MethodsAndOO2](https://replit.com/team/APCSA-Block5-2122/MethodsAndOO2)
+* [MethodsMiniLab](https://replit.com/team/APCSA-Block5-2122/MethodsMiniLab)
 ## Extras
 * [0](https://replit.com/team/APCSA-Block5-2122/0)
 * [1](https://replit.com/team/APCSA-Block5-2122/1)
