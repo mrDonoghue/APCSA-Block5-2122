@@ -1,7 +1,7 @@
 # Links link
 
 ## Warmup
-* [Warmup1](https://apclassroom.collegeboard.org/8/assessments/assignments/42062398/)
+* No warmup! Get coding that minilab!
 
 ## Class
 * [MethodsMiniLab](https://replit.com/team/APCSA-Block5-2122/MethodsMiniLab)
