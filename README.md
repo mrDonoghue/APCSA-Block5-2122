@@ -1,10 +1,10 @@
 # Links link
 
 ## Warmup
-* [warmup2](https://apclassroom.collegeboard.org/8/assessments/assignments/42415077/)
+* Open up [PreLab1](https://replit.com/team/APCSA-Block5-2122/PreLab1Connect) and start looking at it. In particular, you should try to come up with a rough sense of what each class does. It's ok if some classes don't make sense.
 
 ## Class
-* [aFewMoreBasics](https://replit.com/team/APCSA-Block5-2122/aFewMoreBasics)
+* [PreLab1](https://replit.com/team/APCSA-Block5-2122/PreLab1Connect)
 ## Extras
 * [0](https://replit.com/team/APCSA-Block5-2122/0)
 * [1](https://replit.com/team/APCSA-Block5-2122/1)
