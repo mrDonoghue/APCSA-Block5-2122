@@ -1,11 +1,9 @@
 # Links link
 
 ## Warmup
-* Open up [Lab1ConnectBetter](https://replit.com/team/APCSA-Block5-2122/Lab1ConnectBetter) and take a gander at `RandomAgent.java`
-
+* None
 ## Class
-* [Lab1ConnectBetter](https://replit.com/team/APCSA-Block5-2122/Lab1ConnectBetter)
-* [PreLab1](https://replit.com/team/APCSA-Block5-2122/PreLab1Connect)
+* [QuickMaths](https://replit.com/team/APCSA-Block5-2122/QuickMaths)
 ## Extras
 * [0](https://replit.com/team/APCSA-Block5-2122/0)
 * [1](https://replit.com/team/APCSA-Block5-2122/1)
