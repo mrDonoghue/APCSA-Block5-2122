@@ -3,8 +3,8 @@
 ## Warmup
 * None
 ## Class
+* [ProgressCheck1b](https://replit.com/team/APCSA-Block5-2122/ProgressCheck1b)
 * [NumeracyMiniLab](https://replit.com/team/APCSA-Block5-2122/NumeracyMiniLab)
-* [QuickMaths](https://replit.com/team/APCSA-Block5-2122/QuickMaths)
 
 
 ## Extras
