@@ -3,7 +3,7 @@
 ## Warmup
 * None
 ## Class
-* [ProgressCheck1b](https://replit.com/team/APCSA-Block5-2122/ProgressCheck1b)
+* [BibliophileMiniLab](https://replit.com/team/APCSA-Block5-2122/BibliophileMiniLab)
 * [NumeracyMiniLab](https://replit.com/team/APCSA-Block5-2122/NumeracyMiniLab)
 
 
