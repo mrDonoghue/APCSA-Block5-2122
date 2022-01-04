@@ -3,11 +3,8 @@
 ## Warmup
 * None
 ## Class
-* [Formative](https://app.formative.com/formatives/61ba1bab6481debf45b2e5fc): **LEAVE THIS TAB OPEN ALL CLASS**
-* [BibliophileMiniLab](https://replit.com/team/APCSA-Block5-2122/BibliophileMiniLab)
-
-* [NumeracyMiniLab](https://replit.com/team/APCSA-Block5-2122/NumeracyMiniLab)
-
+* [Formative](https://app.formative.com/formatives/61d4aad1099fc1fc34ff4d2e): **LEAVE THIS TAB OPEN ALL CLASS**
+* [String basics](https://replit.com/team/APCSA-Block5-2122/StringBasics)
 
 ## Extras
 * [0](https://replit.com/team/APCSA-Block5-2122/0)
