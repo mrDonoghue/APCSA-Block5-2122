@@ -3,7 +3,6 @@
 ## Warmup
 * None
 ## Class
-* [Formative](https://app.formative.com/formatives/61dc5947b992ad3686bd58b7): **LEAVE THIS TAB OPEN ALL CLASS**
 * [String basics](https://replit.com/team/APCSA-Block5-2122/StringBasics)
 * [StringPractice](https://replit.com/team/APCSA-Block5-2122/StringPractice)
 
