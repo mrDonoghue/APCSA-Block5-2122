@@ -3,8 +3,7 @@
 ## Warmup
 * None
 ## Class
-* [String basics](https://replit.com/team/APCSA-Block5-2122/StringBasics)
-* [StringPractice](https://replit.com/team/APCSA-Block5-2122/StringPractice)
+* [StringPractice](https://replit.com/team/APCSA-Block5-2122/StringPractice) (Remember that you can simplify it to just removing every occurrence of 'e' instead.)
 
 ## Extras
 * [0](https://replit.com/team/APCSA-Block5-2122/0)
