@@ -3,8 +3,9 @@
 ## Warmup
 * None
 ## Class
-* [Formative](https://app.formative.com/formatives/61f3017e521c07f25cd67b01) KEEP THIS TAB OPEN
-* [Repl scratch](https://replit.com/team/APCSA-Block5-2122/IfScratch)
+* [BooleanPractice](https://replit.com/team/APCSA-Block5-2122/BooleanPractice)
+* [Unit2 Progress Check Part a](https://apclassroom.collegeboard.org/8/assessments/assignments/36223091)
+
 
 ## Old
 * [Sem1Review](https://apclassroom.collegeboard.org/8/assessments/assignments/44393160/)
