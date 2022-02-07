@@ -5,6 +5,7 @@
 ## Class
 * [BooleanPractice](https://replit.com/team/APCSA-Block5-2122/BooleanPractice)
 * [Unit2 Progress Check Part a](https://apclassroom.collegeboard.org/8/assessments/assignments/36223091)
+* [Unit2 Progress Check Part b](https://apclassroom.collegeboard.org/8/assessments/assignments/36223183/)
 
 
 ## Old
