@@ -5,7 +5,7 @@
 ## Class
 * [Today's formative](https://app.formative.com/formatives/6221227aa8bd9ea731d8cd66) **LEAVE OPEN**
 * [Today's repl](https://replit.com/team/APCSA-Block5-2122/ClassIntro) **LEAVE OPEN**
-
+* [Thinking about using a variable/method](https://gist.github.com/mrDonoghue/a8624071c0c342dfcb394d7df59f2bef)
 ## Old
 * [Sem1Review](https://apclassroom.collegeboard.org/8/assessments/assignments/44393160/)
 * [StringPractice](https://replit.com/team/APCSA-Block5-2122/StringPractice) (Remember that you can simplify it to just removing every occurrence of 'e' instead.)
