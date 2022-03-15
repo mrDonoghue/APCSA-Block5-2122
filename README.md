@@ -1,7 +1,7 @@
 # Links link
 
 ## Warmup
-* None
+* **Open the formative and repl!!!!**
 ## Class
 * [Today's formative](https://app.formative.com/formatives/6221227aa8bd9ea731d8cd66) **LEAVE OPEN**
 * [Today's repl](https://replit.com/team/APCSA-Block5-2122/ClassIntro) **LEAVE OPEN**
