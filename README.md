@@ -1,10 +1,11 @@
 # Links link
 
 ## Warmup
-* Finish VendingMachine in [our old repl](https://replit.com/team/APCSA-Block5-2122/ClassIntro5). See Instructions tab for a reminder on the requirements on VendingMachine
+* Get started on the FRQs
 ## Class
 * [FRQ2 Practice in this repl](https://replit.com/team/APCSA-Block5-2122/FRQ2-Practice) using [THESE INSTRUCTIONS](files/frq2.pdf)
 * [Unit3 Progress Check](https://apclassroom.collegeboard.org/8/assessments/assignments/36223092/)
+* [Array repl](https://replit.com/team/APCSA-Block5-2122/ArrayScratch)
 ## Old
 * [Sem1Review](https://apclassroom.collegeboard.org/8/assessments/assignments/44393160/)
 * [StringPractice](https://replit.com/team/APCSA-Block5-2122/StringPractice) (Remember that you can simplify it to just removing every occurrence of 'e' instead.)
