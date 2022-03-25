@@ -1,11 +1,11 @@
 # Links link
 
 ## Warmup
-* Get started on the FRQs
+* Open up [ArrayScratch](https://replit.com/team/APCSA-Block5-2122/ArrayScratch) and get ready for BRIEF discussion
 ## Class
-* [FRQ2 Practice in this repl](https://replit.com/team/APCSA-Block5-2122/FRQ2-Practice) using [THESE INSTRUCTIONS](files/frq2.pdf)
-* [Unit3 Progress Check](https://apclassroom.collegeboard.org/8/assessments/assignments/36223092/)
 * [Array repl](https://replit.com/team/APCSA-Block5-2122/ArrayScratch)
+* [ArrayPractice](https://replit.com/team/APCSA-Block5-2122/ArrayPractice)
+* [Unit 4 Progress Check](https://apclassroom.collegeboard.org/8/assessments/assignments/36223093/)
 ## Old
 * [Sem1Review](https://apclassroom.collegeboard.org/8/assessments/assignments/44393160/)
 * [StringPractice](https://replit.com/team/APCSA-Block5-2122/StringPractice) (Remember that you can simplify it to just removing every occurrence of 'e' instead.)
@@ -14,6 +14,8 @@
 * [LoopPractice](https://replit.com/team/APCSA-Block5-2122/LoopPractice)
 * [Unit2 Progress Check Part b](https://apclassroom.collegeboard.org/8/assessments/assignments/36223090/)
 * [BonusPractice](https://apclassroom.collegeboard.org/8/assessments/assignments/44830207/)
+* [FRQ2 Practice in this repl](https://replit.com/team/APCSA-Block5-2122/FRQ2-Practice) using [THESE INSTRUCTIONS](files/frq2.pdf)
+* [Unit3 Progress Check](https://apclassroom.collegeboard.org/8/assessments/assignments/36223092/)
 ## Extras
 * [0](https://replit.com/team/APCSA-Block5-2122/0)
 * [1](https://replit.com/team/APCSA-Block5-2122/1)
