@@ -16,10 +16,10 @@ Make an account and **use VAPCSA22 as the Course Name**.
 * [ArrayList Intro](https://runestone.academy/assignments/doAssignment?assignment_id=103093)
 
 
-**Then** we will have time to work. During this time, **keep track of what you work on [here](https://forms.gle/Dnquv8zN3oK6jBj26)**
+**Then** we will have time to work. During this time, **keep track of what you work on [here](https://forms.gle/bnhEqxsh3ktk1chn6)**
 * [ArrayPractice](https://replit.com/team/APCSA-Block5-2122/ArrayPractice)
 * [Unit 4 Progress Check](https://apclassroom.collegeboard.org/8/assessments/assignments/36223093/)
-* ***MAKE SURE YOU'VE FILLED OUT THE [ENGAGEMENT FORM](https://forms.gle/6b1ED8MqACqMC7nL9)***
+* ***MAKE SURE YOU'VE FILLED OUT THE [ENGAGEMENT FORM](https://forms.gle/bnhEqxsh3ktk1chn6)***
 ## Old
 * [Sem1Review](https://apclassroom.collegeboard.org/8/assessments/assignments/44393160/)
 * [StringPractice](https://replit.com/team/APCSA-Block5-2122/StringPractice) (Remember that you can simplify it to just removing every occurrence of 'e' instead.)
