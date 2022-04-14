@@ -1,16 +1,20 @@
 # Links link
 
 ## Warmup
-* Open up your spreadsheet from the [shared folder](https://drive.google.com/drive/folders/1Mjjk9aMo4twE6UWEnXV9YLTr4X2uZvMW?usp=sharing) and ***update your ratings*** for the units in the **0: Plan** sheet
-* [JOIN CodeHS Course](https://codehs.com/go/F0EEA) if you haven't already
+* [JOIN Runestone/CSA Course](https://runestone.academy/runestone/default/user/register) if you haven't already  
+Make an account and **use VAPCSA22 as the Course Name**.  
+(If you already have a runestone account, feel free to use your old account. Once logged in, click the Person-shaped icon to open the user menu and select "Change Course". Choose "Enroll in a Course" and use VAPCSA22 as the course name.)
+* If you didn't finish work from last class:
+    - [Array initializer lists](https://codehs.com/lms/assignment/60430564)
+    - [Enhanced for loops](https://codehs.com/lms/assignment/60430585) and [quick practice](https://codehs.com/lms/assignment/60430591)
+* **DON'T JUST SIT THERE.** If you finish, do old assignments or study
 
 ## Class
-[ArrayScratch](https://replit.com/team/APCSA-Block5-2122/ArrayScratch)
+[ArrayListScratch](https://replit.com/team/APCSA-Block5-2122/ArrayListScratch)
 
-**First** we will learn 2 new things related to arrays:
+**First** we will learn about ArrayLists:
+* [ArrayList Intro](https://runestone.academy/assignments/doAssignment?assignment_id=103093)
 
-* [Array initializer lists](https://codehs.com/lms/assignment/60430564)
-* [Enhanced for loops](https://codehs.com/lms/assignment/60430585) and [quick practice](https://codehs.com/lms/assignment/60430591)
 
 **Then** we will have time to work. During this time, **keep track of what you work on [here](https://forms.gle/Dnquv8zN3oK6jBj26)**
 * [ArrayPractice](https://replit.com/team/APCSA-Block5-2122/ArrayPractice)
