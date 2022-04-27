@@ -6,13 +6,13 @@
 * **DON'T JUST SIT THERE.** If you finish, do old assignments or ***STUDY***
 
 ## Class
-**First** we will learn about inheritance:
+**First** we will learn more about inheritance:
 * Open [InheritanceIntro](https://replit.com/team/APCSA-Block5-2122/InheritanceIntro)
 * Follow along in [InheritancePractice](https://runestone.academy/assignments/doAssignment?assignment_id=103800)
 
-**Then** we will have time to work. During this time, **keep track of what you work on [here](https://forms.gle/Veb1GgdRFALsmUJa8)**
-* [FRQ3Intro](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=103430)
-* ***MAKE SURE YOU'VE FILLED OUT THE [ENGAGEMENT FORM](https://forms.gle/Veb1GgdRFALsmUJa8)***
+**Then** we will have time to work.
+* My main suggestion: [FRQ4Practice](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=103952)
+
 
 ## Old
 * [Sem1Review](https://apclassroom.collegeboard.org/8/assessments/assignments/44393160/)
@@ -30,6 +30,7 @@
 * [ArrayList Intro](https://runestone.academy/assignments/doAssignment?assignment_id=103093)
 * [2D ArrayIntro](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=103412)
 * [Searching & Sorting](https://runestone.academy/assignments/doAssignment?assignment_id=103350)
+* [FRQ3Intro](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=103430)
 
 
 ## Exam Prep
