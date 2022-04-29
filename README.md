@@ -1,14 +1,11 @@
 # Links link
 
 ## Warmup
-* If you haven't already signed-up for CodeHS AND Runestone/CSAwesome, do so following instructions [here](https://github.com/mrDonoghue/APCSA-Block8-2122/blob/main/files/signup.md)
-* STUDY!!
-* **DON'T JUST SIT THERE.** If you finish, do old assignments or ***STUDY***
+* [InheritanceCheck](https://apclassroom.collegeboard.org/8/assessments/assignments/46377898/)
 
 ## Class
-**First** we will learn more about inheritance:
-* Open [InheritanceIntro](https://replit.com/team/APCSA-Block5-2122/InheritanceIntro)
-* Follow along in [InheritancePractice](https://runestone.academy/assignments/doAssignment?assignment_id=103800)
+**First** we will learn more about recursion and a little bit of searching/sorting
+
 
 **Then** we will have time to work.
 * My main suggestion: [FRQ4Practice](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=103952)
@@ -31,6 +28,7 @@
 * [2D ArrayIntro](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=103412)
 * [Searching & Sorting](https://runestone.academy/assignments/doAssignment?assignment_id=103350)
 * [FRQ3Intro](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=103430)
+* [InheritancePractice](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=103800)
 
 
 ## Exam Prep
