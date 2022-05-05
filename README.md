@@ -1,14 +1,11 @@
 # Links link
+* [Reflection](https://forms.gle/jp2ByZyfXeLpDwsJ9)
 
 ## Warmup
-* [InheritanceCheck](https://apclassroom.collegeboard.org/8/assessments/assignments/46377898/)
+* 
 
 ## Class
-**First** we will learn more about recursion and a little bit of searching/sorting
 
-
-**Then** we will have time to work.
-* My main suggestion: [FRQ4Practice](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=103952)
 
 
 ## Old
