@@ -1,11 +1,17 @@
 # Links link
-* [Reflection](https://forms.gle/jp2ByZyfXeLpDwsJ9)
+
 
 ## Warmup
-* 
+* If you weren't here last time, I would love it if you could fill out [Reflection](https://forms.gle/jp2ByZyfXeLpDwsJ9)
 
 ## Class
-* [skribbl](https://skribbl.io/?5A0AhYkb1myX)
+* [FRQs?](https://secure-media.collegeboard.org/apc/ap22-frq-computer-science-a.pdf)
+* [AnimationIntro](https://replit.com/team/APCSA-Block5-2122/AnimationIntro)
+    - open up src/main/java/replit/Main.java
+    - see if you can figure out what the heck is going on
+    - can you make different things happen?
+    - Can you make the ball move?
+    - Can you make the ball bounce?
 
 
 ## Old
