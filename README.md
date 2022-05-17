@@ -5,15 +5,9 @@
 * Open up the repl and remind yourself what the heck is going on
 
 ## Class
-* [AnimationIntro](https://replit.com/team/APCSA-Block5-2122/AnimationIntro)
-    - open up src/main/java/replit/Main.java
-    - see if you can figure out what the heck is going on
-    - can you make different things happen?
-    - Can you make the ball move?
-    - Can you make the ball bounce?
-    - Can you make a bunch of balls? (For a start don't try to make balls bounce off each other)
-    - Can you make other shapes that move?
-    - Can you make the balls' radii change over time?
+* [AnimationLab repl](https://replit.com/team/APCSA-Block5-2122/AnimationLab) more formally building on [what we did last time](https://replit.com/team/APCSA-Block5-2122/AnimationIntro)
+* [AnimationLab Instructions](/files/AnimationLab.md)
+
 
 
 ## Old
