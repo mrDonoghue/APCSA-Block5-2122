@@ -129,6 +129,8 @@ Reminders:
 <details><summary>Click to hide/show</summary>
 
   * This method should make a new random disc and ***return it***
+  * remember that you can use the formula: `(int) (Math.random() * (max - min +1) + min)` to generate a random int between min and max (inclusive)
+  * remember that `Color.rgb(r, g, b)` makes a color with RGB values `r,g,b` (between 0 and 255). For example, the reddest red is `Color.rgb(255, 0, 0)` while `Color.rgb(255,0,255)` is the purplest purple
 
 </details>
 
@@ -136,12 +138,14 @@ Reminders:
 <details><summary>Click to hide/show</summary>
 
   * Make an ArrayList of discs
-  * use a for loop to fill the ArrayList with discs
+  * Note that we need to make the ArrayList in the `start` method of `Main` *before* the handle method
+  * use a for loop to fill the ArrayList with discs using the `randomDisc()` method
 </details>
 
 ## Loop through list of Disc objects and call update and draw on each of them
 <details><summary>Click to hide/show</summary>
     * loop through the ArrayList of discs
+    * note that this loop must be *in* the `handle` method
     * for each disc, call `update` and then `draw`
 
 </details>
