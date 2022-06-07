@@ -6,9 +6,7 @@
 * Figure out what you're missing
 
 ## Class
-* **DO OLD WORK!**
-* [AnimationLab repl](https://replit.com/team/APCSA-Block5-2122/AnimationLab) more formally building on [what we did last time](https://replit.com/team/APCSA-Block5-2122/AnimationIntro)
-* [AnimationLab Instructions](/files/AnimationLab.md)
+* [Capstone](https://replit.com/team/APCSA-Block5-2122/KNN)
 
 
 
