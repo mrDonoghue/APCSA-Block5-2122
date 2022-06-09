@@ -1,12 +1,8 @@
 # Links link
 
-
-## Warmup
-* Open up myViewpoint and navigate to your grades for this course.
-* Figure out what you're missing
-
 ## Class
-* [Capstone](https://replit.com/team/APCSA-Block5-2122/KNN)
+* [Reflection](https://forms.gle/UUBMfoQoALqnhLjz5)
+
 
 
 
@@ -28,7 +24,7 @@
 * [Searching & Sorting](https://runestone.academy/assignments/doAssignment?assignment_id=103350)
 * [FRQ3Intro](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=103430)
 * [InheritancePractice](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=103800)
-
+* [Capstone](https://replit.com/team/APCSA-Block5-2122/KNN)
 
 ## Exam Prep
 * [Use the spreadsheet in shared](https://drive.google.com/drive/folders/1Mjjk9aMo4twE6UWEnXV9YLTr4X2uZvMW?usp=sharing)
